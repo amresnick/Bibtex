@@ -1,2 +1,2 @@
 # Bibtex
-My bibtex database.
+This is my bibtex database.
